@@ -6,11 +6,3 @@
   </a>
 </div>
 </div>
-
-<div align="center">
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=visumi&theme=jolly&hide_border=true)](https://git.io/streak-stats)
-</div>
-
-<div align="center">
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=visumi)](https://github.com/visumi/github-readme-stats)
-</div>
