@@ -6,3 +6,6 @@
   </a>
 </div>
 </div>
+
+![Ashokkumar's github stats](https://github-readme-stats.vercel.app/api?username=a8hok&show_icons=true&theme=jolly&hide_border=true)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=visumi&theme=jolly&hide_border=true)](https://git.io/streak-stats)
